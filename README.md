@@ -1,4 +1,12 @@
 ## Ex.No:12 Design an application that draws basic graphical primitives on the screen.
+## PROGRAM:
+Program to create and design an android application that draws basic graphical primitives on the screen.
+
+Developed by: JASHWANA FATHIMA S
+
+Registeration Number :212222040059
+
+Date : 4.11.2024
 ## AIM:
 To create and design an android application that draws basic graphical primitives on the screen using Android Studio.
 
@@ -20,14 +28,6 @@ Step 6: Draw basic object details give in MainActivity file.
 
 Step 7: Save and run the application.
 
-## PROGRAM:
-/*
-```
-Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by: JASHWANA FATHIMA S
-Registeration Number :212222040059
-```
-*/
 ## activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
